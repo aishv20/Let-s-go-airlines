@@ -1,0 +1,24 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "This is NodeJS mysql DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishv/Let-s-go-airlines.git"
+  },
+  "author": "Aishwarya Vithayathil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishv/Let-s-go-airlines/issues"
+  },
+  "homepage": "https://github.com/aishv/Let-s-go-airlines#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
